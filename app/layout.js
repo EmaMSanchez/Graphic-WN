@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Graphic WN",
+  title: "Graphic-WN",
   description: "Graphic Rendimiento año",
 };
 
